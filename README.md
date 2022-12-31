@@ -17,5 +17,5 @@ The bus stops are stored in a Room database. Schedule items are represented by t
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.# sensei_11_android-basics-kotlin-bus-schedule-app
-# sensei_11_android-basics-kotlin-bus-schedule-app
-# sensei_11_android-basics-kotlin-bus-schedule-app-
+[# sensei_11_android-basics-kotlin-bus-schedule-app](https://developer.android.com/codelabs/basic-android-kotlin-training-intro-room-flow?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-5-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-intro-room-flow#7)
+
