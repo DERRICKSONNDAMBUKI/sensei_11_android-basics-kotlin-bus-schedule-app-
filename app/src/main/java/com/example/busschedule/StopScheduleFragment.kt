@@ -69,7 +69,7 @@ class StopScheduleFragment: Fragment() {
         recyclerView.layoutManager = LinearLayoutManager(requireContext())
 
         val busStopAdapter = BusStopAdapter({})
-        recyclerView.adapter = BusStopAdapter
+        recyclerView.adapter = busStopAdapter
 
         GlobalScope.launch(Dispatchers.IO){
             busStopAdapter.submitList(viewModel.scheduleForStopName(stopName))
